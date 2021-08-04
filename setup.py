@@ -26,7 +26,7 @@ _INSTALL_REQUIRES = [
     "dodgy>=0.1.9",
     "pyyaml",
     "mccabe>=0.5.0",
-    "pyflakes<2.3.0,>=2.2.0",
+    "pyflakes>=2.2.0",
     "pycodestyle>=2.6.0",
     "pep8-naming>=0.3.3,<=0.10.0",
     "pydocstyle>=2.0.0",
